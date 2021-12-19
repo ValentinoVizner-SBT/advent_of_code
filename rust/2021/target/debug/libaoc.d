@@ -1,0 +1,1 @@
+/Users/valentinovizner/Documents/private_projects/rust/advent_of_code/rust/2021/target/debug/libaoc.rlib: /Users/valentinovizner/Documents/private_projects/rust/advent_of_code/rust/2021/src/lib.rs /Users/valentinovizner/Documents/private_projects/rust/advent_of_code/rust/2021/src/utils.rs
